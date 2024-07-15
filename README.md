@@ -15,35 +15,30 @@ This repository contains a comprehensive guide and resources for configuring a V
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Configuration Stages</h2>
+Retrieve IPv4 Address
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+![Screenshot 2024-07-15 091253](https://github.com/user-attachments/assets/16997aec-d6e6-4776-bddb-066bbf7153cc)
 
-<h2>Lifecycle Stages</h2>
+Create Virtual Machine in Azure
+![Screenshot 2024-07-15 092445](https://github.com/user-attachments/assets/54751863-8069-45af-ac2f-172179d62a9a)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Connect to VM using RDP
+![Screenshot 2024-07-15 092800](https://github.com/user-attachments/assets/73d4e5e8-44db-473b-8347-72a33582873f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Find the IPv4 Address of the VM
+![Screenshot 2024-07-15 094349](https://github.com/user-attachments/assets/089784af-0658-4f94-8919-412d2028d4ae)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Sign up for ProtonVPN within the VM, then connect new VPN
+![Screenshot 2024-07-15 102448](https://github.com/user-attachments/assets/5825c98f-789f-447b-a790-06809b25552c)
+![Screenshot 2024-07-15 102917](https://github.com/user-attachments/assets/612616e2-5ef9-40aa-a1e1-b2a3c8a4c3cd)
+
+
+
+
+
+
+
+
+
+
