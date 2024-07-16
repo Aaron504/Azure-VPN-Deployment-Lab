@@ -32,6 +32,8 @@ Find the IPv4 Address of the VM
 Sign up for ProtonVPN within the VM, then connect new VPN
 ![Screenshot 2024-07-15 102448](https://github.com/user-attachments/assets/5825c98f-789f-447b-a790-06809b25552c)
 ![Screenshot 2024-07-15 102917](https://github.com/user-attachments/assets/612616e2-5ef9-40aa-a1e1-b2a3c8a4c3cd)
+![Screenshot 2024-07-16 100930](https://github.com/user-attachments/assets/ea766dab-62e0-4859-a8f2-09c3dac6febc)
+
 
 
 
